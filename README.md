@@ -1,3 +1,7 @@
+<p style="text-align:center;">
+    <img width="150" height="150" src="docs/logo.png">
+</p>
+
 # Xamarin.Forms.XamlPack
 
 ## Goals
