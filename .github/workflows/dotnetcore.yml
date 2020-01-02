@@ -14,6 +14,6 @@ jobs:
       with:
         dotnet-version: 2.2.108
     - name: Pack with dotnet
-      run: dotnet pack --configuration Release --restore
+      run: dotnet pack --configuration Release
 #     - name: Publish in nuget
 #       run: dotnet nuget push "bin/Release/Xamarin.Forms.XamlPack.1.0.0.nupkg" --source "github"
